@@ -71,7 +71,7 @@ export const PORTFOLIO_DATA = {
     whatsappUrl: "https://wa.me/201012981220",
     linkedIn: "https://www.linkedin.com/in/mohamed-hesham-444ab7214",
     github: "https://github.com/MohamedH19",
-    avatar: "/assets/profile.jpg",
+    avatar: "/assets/Professional-ME.jpg",
     availability: "Available for Full-time Roles & High-Impact Contracts",
     languages: [
       { name: "Arabic", level: "Native Proficiency" },

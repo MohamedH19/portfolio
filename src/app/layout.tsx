@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     siteName: "Mohamed Hesham Portfolio",
     images: [
       {
-        url: "/assets/profile.jpg",
+        url: "/assets/Professional-ME.jpg",
         width: 1200,
         height: 630,
         alt: "Mohamed Hesham - Flutter Mobile Developer",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Mohamed Hesham | Cross-Platform Mobile Developer",
     description: "Specializing in high-performance iOS and Android mobile apps with Flutter, Riverpod, and Clean Architecture.",
-    images: ["/assets/profile.jpg"],
+    images: ["/assets/Professional-ME.jpg"],
   },
   robots: {
     index: true,
